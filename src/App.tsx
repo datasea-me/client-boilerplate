@@ -1,7 +1,15 @@
-function App() {
-  // Create counter state
+import Container from "./components/shared/Container";
+import Footer from "./components/shared/Footer";
+import Header from "./components/shared/Header";
 
-  return <></>;
+function App() {
+  return (
+    <>
+      <Header />
+      <Container>Hello, Developer!</Container>
+      <Footer />
+    </>
+  );
 }
 
 export default App;
