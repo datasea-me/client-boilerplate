@@ -20,7 +20,6 @@
   "semi": true,
   "singleQuote": false,
   "trailingComma": "none",
-  "jsxBracketSameLine": true,
   "jsxSingleQuote": false,
   "bracketSpacing": true,
   "bracketSameLine": false,
